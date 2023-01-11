@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Gabetd
 
-![L1040870.jpg](https://raw.githubusercontent.com/HolyZheng/holyZheng-blog/master/images/coding.gif) <span class="f5 db tr o-40 nb3">Leica Q · f/14 · 1/125 · ISO
-100</span>
-
+<div align='center> 
+👋 Hi, I’m Gabriel
+![L1040870.jpg](https://raw.githubusercontent.com/HolyZheng/holyZheng-blog/master/images/coding.gif)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+Print&duration=3000&pause=501&width=435&lines=I+am+a+fullcat+developer;I+am+a+fullstack+developer)](https://git.io/typing-svg)
+</div>
 ## My Languages:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
