@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @Gabetd
 
+![L1040870.jpg](https://raw.githubusercontent.com/HolyZheng/holyZheng-blog/master/images/coding.gif) <span class="f5 db tr o-40 nb3">Leica Q · f/14 · 1/125 · ISO
+100</span>
 
 ## My Languages:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
