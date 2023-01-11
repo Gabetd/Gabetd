@@ -1,9 +1,16 @@
 
-<div align='center> 
-👋 Hi, I’m Gabriel
-![L1040870.jpg](https://raw.githubusercontent.com/HolyZheng/holyZheng-blog/master/images/coding.gif)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+Print&duration=3000&pause=501&width=435&lines=I+am+a+fullcat+developer;I+am+a+fullstack+developer)](https://git.io/typing-svg)
-</div>
+<h1 align="center" font="Courier"> 
+Hey, I'm Gabriel!
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+Prime&color=813AD2&center=true&width=435&height=50&lines=I+am+a+software+engineer;+I+am+a+fullcat+developer;+I+am+a+fullstack+developer)](https://git.io/typing-svg)
+  
+  ![L1040870.jpg](https://raw.githubusercontent.com/HolyZheng/holyZheng-blog/master/images/coding.gif)
+</h1>
+    
+
+
+
+
 ## My Languages:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
