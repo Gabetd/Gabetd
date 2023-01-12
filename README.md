@@ -40,3 +40,10 @@ Social Links
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/gabriel-day-536738201)
 <span>[![My Skills](https://appacademybucket.s3.amazonaws.com/c1873224c2794888b45f5289117e2073.png)](https://angel.co/u/gabriel-day-1)</span>
   </h2>
+
+<h2 align="center">My, how you say, statistics</h2>
+<div align="center">
+	
+[![GitHub Streak](https://streak-stats.demolab.com?user=Gabetd&theme=blue-green)](https://git.io/streak-stats)
+  
+</div>
