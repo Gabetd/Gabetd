@@ -6,9 +6,6 @@ Hey, I'm Gabriel!
   
   ![L1040870.jpg](https://raw.githubusercontent.com/HolyZheng/holyZheng-blog/master/images/coding.gif)
 </h1>
-    
-
-
 
 
 ## My Languages:
@@ -41,4 +38,5 @@ Social Links
   
   
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/gabriel-day-536738201)
+<!-- <span>[![My Skills](https://appacademybucket.s3.amazonaws.com/4f8d6fbc586649ceb93738ee9105ffae.png)](https://angel.co/u/gabriel-day-1)</span> -->
   </h2>
