@@ -45,5 +45,11 @@ Social Links
 <div align="center">
 	
 [![GitHub Streak](https://streak-stats.demolab.com?user=Gabetd&theme=blue-green)](https://git.io/streak-stats)
-  
 </div>
+
+<h2 align="center">Currently working on</h2>
+<div align="center">
+	
+  [![My Skills](https://skillicons.dev/icons?i=cpp,ts)](https://skillicons.dev)
+</div>
+
