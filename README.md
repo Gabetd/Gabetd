@@ -2,7 +2,7 @@
 <h1 align="center" font="Courier"> 
 Hey, I'm Gabriel!
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+Prime&color=813AD2&center=true&width=435&height=50&lines=I+am+a+software+engineer;+I+am+a+software+developer;+I+am+a+fullstack+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+Prime&color=813AD2&center=true&width=435&height=50&lines=I+am+a+software+engineer;+I+am+a+fullstack+developer)](https://git.io/typing-svg)
   
   ![L1040870.jpg](https://raw.githubusercontent.com/HolyZheng/holyZheng-blog/master/images/coding.gif)
 </h1>
